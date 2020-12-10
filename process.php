@@ -35,5 +35,5 @@ if ($result->num_rows > 0) {
     $_SESSION["role"] = $row["role_name"];
     header("Location:/laba2_web/homepage.php");
 } else {
-    header("Location:/laba2_web/login.php");
+    header("Location:/laba2_web/homepage.php");
 }

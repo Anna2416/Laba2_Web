@@ -19,7 +19,6 @@ $email = $_POST["email"];
 $id = $_SESSION["clicked_id"];
 $_SESSION["first_name"] = $first_name;
 $_SESSION["last_name"] = $last_name;
-$_SESSION["user_name"] = $first_name . " " . $last_name;
 $_SESSION["email"] = $email;
 
 $sql = "UPDATE users SET first_name='$first_name', last_name='$last_name', email='$email' WHERE id='$id'";
