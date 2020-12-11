@@ -29,8 +29,6 @@
       <change beforePath="$PROJECT_DIR$/../laba2/signup.php" beforeDir="false" afterPath="$PROJECT_DIR$/../laba2/signup.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../laba2/update.php" beforeDir="false" afterPath="$PROJECT_DIR$/../laba2/update.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/delete.php" beforeDir="false" afterPath="$PROJECT_DIR$/delete_user.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/profile.php" beforeDir="false" afterPath="$PROJECT_DIR$/profile.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,6 +73,8 @@
       <workItem from="1607629580274" duration="629000" />
       <workItem from="1607634282783" duration="8860000" />
       <workItem from="1607644339686" duration="352000" />
+      <workItem from="1607644948902" duration="100000" />
+      <workItem from="1607677516203" duration="2768000" />
     </task>
     <servers />
   </component>

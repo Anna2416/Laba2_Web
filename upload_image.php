@@ -7,8 +7,8 @@ $imageFileType = strtolower(pathinfo($target_file,PATHINFO_EXTENSION));
 
 $servername = "localhost";
 $username = "root";
-$password = "00zomifi";
-$dbname = "test";
+$password = "160802anna";
+$dbname = "laba2";
 
 // Create connection
 $conn = new mysqli($servername, $username, $password, $dbname);
