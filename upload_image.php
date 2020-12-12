@@ -7,7 +7,7 @@ $imageFileType = strtolower(pathinfo($target_file,PATHINFO_EXTENSION));
 
 $servername = "localhost";
 $username = "root";
-$password = "160802anna";
+$password = "";
 $dbname = "laba2";
 
 // Create connection

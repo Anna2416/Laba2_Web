@@ -6,7 +6,7 @@ session_start();
 
 $servername = "localhost";
 $username = "root";
-$password = "160802anna";
+$password = "";
 $dbname = "laba2";
 
 // Create connection
